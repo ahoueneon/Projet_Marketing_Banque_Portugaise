@@ -1,0 +1,15 @@
+Ce projet analyse les campagnes de marketing par appels téléphoniques directs d'une banque portugaise, qui visaient à promouvoir les dépôts à terme auprès des clients existants. Les campagnes ont été menées de mai 2008 à novembre 2010.
+
+Les données sont liées aux campagnes de marketing direct d'une institution bancaire portugaise. Les campagnes marketing étaient basées sur des appels téléphoniques. Souvent, plusieurs contacts avec le même client étaient nécessaires pour savoir si le produit (dépôt bancaire à terme) serait (« oui ») ou non (« non ») souscrit.
+
+***L'objectif principal est de prédire les réponses des clients aux futures campagnes de marketing***, grâce à des modèles de classification et de régression, afin que la banque puisse concentrer ses efforts de marketing sur les clients les plus réceptifs. Les modèles aideront la banque à sécuriser les dépôts plus efficacement, à économiser les coûts de marketing et à réduire les publicités indésirables pour les clients.
+
+## Source des données
+L'ensemble des données est accessible au public dans le UCI Machine Learning Repository, qui peut être consulté à l'adresse http://archive.ics.uci.edu/ml/datasets/Bank+Marketing#.
+
+## Analyse des données et rapport
+Veuillez consulter les codes dans le fichier ***Portuguese Bank Telemarketing Analysis.ipynb***.
+
+(P.S. Ce fichier est volumineux et ne prend pas en charge la prévisualisation, il se peut donc que vous deviez d'abord le télécharger. Sinon, vous pouvez voir les codes sur ma page Kaggle, qui devrait se charger plus rapidement. https://www.kaggle.com/yufengsui/machine-learning-project-bank-marketing-analytics)
+
+Veuillez suivre ce lien pour consulter le rapport de projet : https://yfsui.github.io/Bank-Telemarketing-ML-Project/.
